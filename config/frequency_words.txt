@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -8,9 +5,7 @@ DeepSeek
 
 大疆
 DJI
-
-宇树
-王兴兴
+pocket 4
 
 大众
 大众安徽
@@ -29,6 +24,7 @@ bytedance
 
 特斯拉
 马斯克
+Grok
 
 微软
 Microsoft
@@ -36,8 +32,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-Grok
 
 谷歌
 google
@@ -61,8 +55,6 @@ ai
 人工智能
 
 自动驾驶
-
-机器人
 
 国产
 中国
